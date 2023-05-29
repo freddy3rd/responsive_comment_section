@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: var(--Light_gray) ;
+    --Moderate_blue: #5457b5;
+    --Soft_Red: #ed6468;
+    --Light_grayish_blue: #c3c4ef;
+    --Pale_red: #ffb8bb;
+    
+    --Dark_blue: #324152;
+    --Grayish_Blue: #67727e;
+    --Light_gray: #eaecf1;
+    --Very_light_gray: hsl(228, 33%, 97%);
+    --White: hsl(0, 0%, 100%);
+}
